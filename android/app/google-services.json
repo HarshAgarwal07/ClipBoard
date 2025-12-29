@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "989096703940",
+    "project_id": "clipboard-5c0bc",
+    "storage_bucket": "clipboard-5c0bc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989096703940:android:8f829ac1fa8dc5c8a95691",
+        "android_client_info": {
+          "package_name": "com.example.notes_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgKwsjou99HvHa_73FKhZNkQ8P-8GF0dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
